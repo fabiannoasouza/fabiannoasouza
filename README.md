@@ -24,5 +24,5 @@
 <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 <BR/>
-Apaixonado em educar através da tecnologias e linguagens de programação
+Apaixonado em educar através da tecnologias e suas linguagens de programação
 
