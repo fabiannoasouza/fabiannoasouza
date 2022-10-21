@@ -20,4 +20,8 @@
 <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img align="center" alt="DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 <img align="center" alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<BR/>
+Apaixonado em educar através da tecnologias e linguagens de programação
 
+## LINGUAGEM QUE MAIS UTILIZO:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiannoasouza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
