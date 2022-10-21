@@ -26,6 +26,16 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 <BR/>
+
+## my technologies IA:
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="DialogFlow" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
+<img align="center" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img align="center" alt="Biases" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
+
+</div>
+<BR/>
 Apaixonado em educar através da tecnologias e suas linguagens de programação
 
 ####  ![](https://komarev.com/ghpvc/?username=fabiannoasouza&color=lightgrey)
