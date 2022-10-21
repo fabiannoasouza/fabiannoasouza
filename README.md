@@ -26,6 +26,5 @@
 <BR/>
 Apaixonado em educar através da tecnologias e suas linguagens de programação
 
-### visitantes:
-![](https://komarev.com/ghpvc/?username=fabiannoasouza&color=green)
+### visitantes: ![](https://komarev.com/ghpvc/?username=fabiannoasouza&color=green)
 
