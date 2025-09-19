@@ -14,7 +14,8 @@
 <a href="https://www.linkedin.com/in/fabiano-alves-de-souza-46a75556/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<br>
+
+
 ![Fabiano GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiannoasouza&show_icons=true&theme=dracula)
 
 
